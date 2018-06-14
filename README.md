@@ -15,6 +15,8 @@ Du texte du texte du texte
 Voici un exemple
 ```
 
+![alt image_chat](https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg?w=640&ssl=1)
+
 ### Section 1-b
 
 Du texte du texte du texte
