@@ -1,11 +1,8 @@
 # Temporal-Matching on link streams
 
-We present our studies on a problema we call Temporal Matching on link streams.
-Link streams are ...
+## What is it about?
 
-## Section 1
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+A link stream is a sequence of pairs of the form (t,{u,v}), where t ∈ N represents a time instant and u ̸= v. Given an integer γ, the γ-edge between vertices u and v, starting at time t, is the set of temporally consecutive edges defined as {(t′, {u, v}) | t′ ∈  t, t + γ − 1 }
 
 ### Section 1-a
 
