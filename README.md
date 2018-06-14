@@ -30,6 +30,8 @@ Du texte du texte du texte
 * [Test_1](http://google.com) - Un moteur de recherche
 * [Test_2](https://maven.apache.org/) - Un autre moteur de recherche
 
+* **Antoine Roux** - *Un essai* - [Superzenith](http://superzenith.com)
+
 ## Section 2
 
 ### Section 2-a
