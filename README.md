@@ -41,6 +41,17 @@ Du texte du texte du texte
 
 Du texte du texte du texte
 
+{
+    "plugins": ["scripts"],
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "./index.js"
+            ]
+        }
+    }
+}
+
 ### Section 2-c
 
 Du texte du texte du texte
