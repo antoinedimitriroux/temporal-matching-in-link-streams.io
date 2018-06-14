@@ -11,13 +11,24 @@ These instructions will get you a copy of the project up and running on your loc
 
 Du texte du texte du texte
 
+```
+Voici un exemple
+```
+
 ### Section 1-b
 
 Du texte du texte du texte
 
+```
+Voici un autre exemple
+```
+
 ### Section 1-b
 
 Du texte du texte du texte
+
+* [Test_1](http://google.com) - Un moteur de recherche
+* [Test_2](https://maven.apache.org/) - Un autre moteur de recherche
 
 ## Section 2
 
