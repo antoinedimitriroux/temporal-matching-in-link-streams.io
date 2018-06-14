@@ -15,7 +15,8 @@ Du texte du texte du texte
 Voici un exemple
 ```
 
-![alt image_chat](https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg?w=640&ssl=1)
+![alt image_chat_url](https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg?w=640&ssl=1)
+![alt image_chat_local](/chat.jpeg)
 
 ### Section 1-b
 
